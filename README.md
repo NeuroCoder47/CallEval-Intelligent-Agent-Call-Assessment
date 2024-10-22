@@ -1,4 +1,3 @@
-Here’s an extended version of the README file for **CallEval: Intelligent Agent Call Assessment**, with additional sections and more detailed explanations:
 
 ```markdown
 # CallEval: Intelligent Agent Call Assessment
