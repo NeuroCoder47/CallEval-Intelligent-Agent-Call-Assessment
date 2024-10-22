@@ -77,7 +77,7 @@ If necessary, set up environment variables for any sensitive information (like A
 
 ## 🎨 Example Screenshot
 
-![Screenshot]([https://via.placeholder.com/600x400.png?text=Screenshot](https://github.com/NeuroCoder47/CallEval-Intelligent-Agent-Call-Assessment/blob/main/scerrnshot.png)) <!-- Replace with an actual screenshot of your app -->
+![Screenshot](https://via.placeholder.com/600x400.png?text=Screenshot](https://github.com/NeuroCoder47/CallEval-Intelligent-Agent-Call-Assessment/blob/main/scerrnshot.png) <!-- Replace with an actual screenshot of your app -->
 ## ⚙️ Technologies Used
 
 - **Python**: The programming language used to build the application.
