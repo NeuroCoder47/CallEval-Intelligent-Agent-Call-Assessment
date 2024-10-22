@@ -77,7 +77,7 @@ If necessary, set up environment variables for any sensitive information (like A
 
 ## 🎨 Example Screenshot
 
-![Screenshot](https://github.com/NeuroCoder47/CallEval-Intelligent-Agent-Call-Assessment/blob/main/screenshot.png)
+![Screenshot](https://github.com/NeuroCoder47/CallEval-Intelligent-Agent-Call-Assessment/blob/main/scerrnshot.png)
 
 ## ⚙️ Technologies Used
 
